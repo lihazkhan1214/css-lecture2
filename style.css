@@ -1,0 +1,13 @@
+h1{
+    background: red;
+}
+/* divider div */
+
+div{
+   background-image:url('./images/tree.jpgd');
+
+  background-size: contain;
+  background-repeat:no-repeat;
+
+   height: 400px;
+}
